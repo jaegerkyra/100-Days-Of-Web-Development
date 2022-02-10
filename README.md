@@ -12,7 +12,7 @@ Following along with "100 Days of Code - Web Development Bootcamp" Udemy course 
 
 <h2>Live Projects:</h2>
 <ul>
-  <li><a href="https://hopeful-chandrasekhar-d87601.netlify.app/">Web Development site<a></li> 
-    <li><a href="https://elastic-meninsky-1180e8.netlify.app/">HTML and CSS Summary site</a></li> 
-    <li><a href="https://reverent-minsky-781e7a.netlify.app">Travel Page</a></li>
+  <li><a href="https://hopeful-chandrasekhar-d87601.netlify.app/">Web Development site<a> - completed</li> 
+    <li><a href="https://elastic-meninsky-1180e8.netlify.app/">HTML and CSS Summary site</a> - completed</li> 
+    <li><a href="https://reverent-minsky-781e7a.netlify.app">Travel Page</a> - in work</li>
 </ul>
