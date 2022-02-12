@@ -41,9 +41,21 @@
     font-size: 24px;
     font-weight: bold;
     border-radius: 8px;
-    border-shadow: 2px 4px 8px rgb(68, 67, 67);
+    box-shadow: 2px 4px 8px rgb(68, 67, 67);
 }
 
 #hero-content a:hover {
     background-color: rgb(230, 215, 16);
+}
+
+#destinations {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.destination img {
+    height: 200px;
+    width: 100%;
 }
