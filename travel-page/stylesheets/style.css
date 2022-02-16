@@ -48,11 +48,20 @@
     background-color: rgb(230, 215, 16);
 }
 
+#highlights h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(59, 65, 64);
+    margin: 24 px;
+}
+
 #destinations {
     display: flex;
     width: 90%;
     margin: auto;
     margin-bottom: 40px;
+    justify-content: center;
 }
 
 .destination {
